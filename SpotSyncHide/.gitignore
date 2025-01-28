@@ -1,0 +1,21 @@
+# Ignore temporary files
+temp_*
+temp_apk/
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore uploaded files
+*.apk
+*.exe
